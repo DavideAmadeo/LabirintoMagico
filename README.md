@@ -16,6 +16,11 @@ Il labirinto è una griglia di dimensioni N x N che contiene:
 Lo scopo del mago è fuggire dal labirinto preservando la sua preziosa barba.
 
 
+🧪 Tecnologie Utilizzate
+- Python
+- Algoritmi di ricerca: A*, Greedy Search
+
+
 Componenti del gruppo:
 - Amadeo Davide
 - Bramati Stefano

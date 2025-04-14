@@ -15,6 +15,7 @@ Il labirinto è una griglia di dimensioni N x N che contiene:
 
 Lo scopo del mago è fuggire dal labirinto preservando la sua preziosa barba.
 
+
 Componenti del gruppo:
 - Amadeo Davide
 - Bramati Stefano

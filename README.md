@@ -2,7 +2,7 @@
 
 Un mago intrappolato in un labirinto deve trovare la via d’uscita mentre sfugge a un pericoloso mostro invisibile: l’invurgus, che si nutre di barbe di mago.
 
-📖 Descrizione del Gioco
+Descrizione del Gioco:
 
 Il labirinto è una griglia di dimensioni N x N che contiene:
 - 🧙 Un mago, controllato dall’algoritmo.
@@ -17,7 +17,7 @@ Lo scopo del mago è fuggire dal labirinto preservando la sua preziosa barba.
 
 <br>
 
-🧪 Tecnologie Utilizzate
+Tecnologie Utilizzate:
 - Python
 - Algoritmi di ricerca: A*, Greedy Search
 
